@@ -3,7 +3,7 @@ import { HTMLParser } from "https://js.sabae.cc/HTMLParser.js";
 import { fetchOrLoad } from "https://js.sabae.cc/fetchOrLoad.js";
 import { ArrayUtil } from "https://js.sabae.cc/ArrayUtil.js";
 import { CSV } from "https://js.sabae.cc/CSV.js";
-import { getKeywords } from "./getKeywords.js";
+import { getKeywords } from "https://code4fukui.github.io/highlighting_japan/deno/getKeywords.js";
 
 const keys = [];
 const list = [];
