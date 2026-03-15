@@ -1,5 +1,7 @@
 # highlighting_japan
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 An open dataset (CSV/JSON) of the index of Highlighting Japan, the Japanese government's publicity magazine.
 
 ## Open Data
