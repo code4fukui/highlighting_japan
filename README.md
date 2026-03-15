@@ -1,13 +1,16 @@
 # highlighting_japan
 
-日本政府広報の [Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/index.html) のインデックスをオープンデータ化 (CSV/JSON)
+An open dataset (CSV/JSON) of the index of Highlighting Japan, the Japanese government's publicity magazine.
 
-## オープンデータ
+## Open Data
 
 - https://code4fukui.github.io/highlighting_japan/data_ja.csv
 - https://code4fukui.github.io/highlighting_japan/data_ja.json
 
-
-## サンプルアプリ
+## Sample App
 
 https://code4fukui.github.io/highlighting_japan/
+
+## License
+
+MIT License
