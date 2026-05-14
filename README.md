@@ -8,7 +8,7 @@ An open dataset (CSV/JSON) of the article index from *Highlighting Japan*, the J
 
 An interactive viewer and search interface for the dataset:
 
-- **https://code4fukui.github.io/highlighting_japan/**
+- **https://github.com/code4fukui/highlighting_japan
 
 ## Open Data
 

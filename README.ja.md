@@ -6,7 +6,7 @@
 
 データセットのインタラクティブなビューアおよび検索インターフェースです：
 
-- **https://code4fukui.github.io/highlighting_japan/**
+- **https://github.com/code4fukui/highlighting_japan
 
 ## オープンデータ
 
